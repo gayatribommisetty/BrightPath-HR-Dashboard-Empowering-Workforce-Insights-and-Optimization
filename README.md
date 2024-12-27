@@ -1,9 +1,9 @@
 # BrightPath HR Dashboard: Empowering Workforce Insights and Optimization
-## PROJECT OVERVIEW
+## Project Overview
 The HR Dashboard Project for BrightPath Solutions is designed to address inefficiencies in workforce data management and analysis. 
 The project focuses on building a centralized, automated, and interactive tool that streamlines HR operations, enhances data visibility, and empowers decision-making.
 
-## PROBLEM STATEMENT
+## Problem Statement:
 At BrightPath Solutions, the HR department faces significant challenges in managing and analyzing workforce data effectively. The current process involves manual data consolidation from multiple sources, resulting in:
 * Inefficiencies: Time-consuming manual reporting and data processing delay critical insights.
 * Fragmented Data: Limited integration across systems leads to inconsistent metrics on performance, attrition, and workforce demographics.
@@ -23,7 +23,7 @@ To address these issues, BrightPath Solutions requires a centralized, automated 
 * Interactive Filters: Allows HR teams to customize reports by department, location, or role.
 * Automated Notifications: Highlights key metrics such as low engagement or high attrition.
 
-## Key Steps in the Project
+## Key Steps in the Project:
 * Data Extraction and Transformation:
 Leveraged Power Query to extract raw, unstructured data and convert it into structured, tabular formats, enabling efficient analysis and visualization.
 * Pivot Table Creation:
@@ -35,7 +35,7 @@ Automated the removal of manual filters using macros and VBA, streamlining workf
 * Formula Utilization:
 Applied Excel functions such as IF, COUNTA, and IF AND to analyze transition charts and employee promotions, ensuring accurate and meaningful data representation.
 
-## Components of the HR Dashboard
+## Components of the HR Dashboard:
 <img width="856" alt="Screenshot 2024-12-26 at 9 34 14 PM" src="https://github.com/user-attachments/assets/7bdea9d0-562d-4880-87f1-24175bacde6f" />
 
 1)  Employee Overview Section:
@@ -69,7 +69,7 @@ Applied Excel functions such as IF, COUNTA, and IF AND to analyze transition cha
     * Automates data updates to ensure the dashboard reflects the latest information.
     * Powered by Excel macros and VBA for seamless integration.
    
-## Technologies and Tools Used
+## Technologies and Tools Used:
 * Power Query: Extracts and transforms raw data into structured, tabular formats for analysis.
 * Excel Pivot Tables: Generates summarized reports for quick and actionable insights.
 * Excel Macros and VBA: Automates repetitive tasks such as filtering, categorization, and data updates.
